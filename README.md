@@ -1,19 +1,9 @@
-# 🎈 Blank app template
+# Tradutor PO com DeepL
 
-A simple Streamlit app template for you to modify!
+App Streamlit para traduzir ficheiros PO usando a API DeepL.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Como usar
+1. Insira a sua chave API DeepL.
+2. Escolha o idioma alvo.
+3. Carregue um ficheiro .po.
+4. Clique em "Traduzir" e descarregue o resultado.
